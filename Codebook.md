@@ -6,6 +6,7 @@ The source of the dataset used is extracted from the following source: Davide An
 
 The following codebook describe the file in tidy_data.txt:
 
+
 Column 1: Subject. The ID of the subject. There are 30 subjects between 18-48 years. 
 Column 2: Activity: the type of activities performed by each of the 30 subjects. A total of six activities which included:
 •	Walking
