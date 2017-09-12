@@ -128,6 +128,6 @@ meandata <-aggregate(datasetfinal, by=list(subject=datasetfinal$subjects, activi
 
 meandata<-subset(meandata,select=-c(subjects, activities))
 
-write.table(meandata, file = "tidydata.txt",row.name=FALSE)
+write.table(meandata, file = "tidydata.txt",quote=FALSE, row.name=FALSE)
 
 
