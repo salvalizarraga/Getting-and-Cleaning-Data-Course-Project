@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Getting and Cleaning Data Course Project
 Solutions to Getting and Cleaning Data Course Project -Coursera
 
 
